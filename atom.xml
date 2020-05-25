@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>hengxincheung&#39;s blog</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://hengxincheung.github.io.com/"/>
+  <link href="https://hengxincheung.github.io/"/>
   <updated>2020-05-25T12:31:20.226Z</updated>
-  <id>http://hengxincheung.github.io.com/</id>
+  <id>https://hengxincheung.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>hengxincheung</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>01-对象导论</title>
-    <link href="http://hengxincheung.github.io.com/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/01-%E5%AF%B9%E8%B1%A1%E5%AF%BC%E8%AE%BA/"/>
-    <id>http://hengxincheung.github.io.com/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/01-%E5%AF%B9%E8%B1%A1%E5%AF%BC%E8%AE%BA/</id>
+    <link href="https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/01-%E5%AF%B9%E8%B1%A1%E5%AF%BC%E8%AE%BA/"/>
+    <id>https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/01-%E5%AF%B9%E8%B1%A1%E5%AF%BC%E8%AE%BA/</id>
     <published>2020-05-25T12:21:35.000Z</published>
     <updated>2020-05-25T12:31:20.226Z</updated>
     
@@ -27,25 +27,25 @@
     
       
       
-        &lt;!-- build time:Mon May 25 2020 20:36:33 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;计算机革命起源于机器，因此，编程语言的产生也始于对机器的模仿。&lt;/p&gt;&lt;p&gt;但是计算机并非只是机器那么简单，计算机是头脑延伸的工具。**面向对象
+        &lt;!-- build time:Mon May 25 2020 20:44:29 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;计算机革命起源于机器，因此，编程语言的产生也始于对机器的模仿。&lt;/p&gt;&lt;p&gt;但是计算机并非只是机器那么简单，计算机是头脑延伸的工具。**面向对象
       
     
     </summary>
     
     
-      <category term="Java编程思想" scheme="http://hengxincheung.github.io.com/categories/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+      <category term="Java编程思想" scheme="https://hengxincheung.github.io/categories/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
     
     
-      <category term="Java" scheme="http://hengxincheung.github.io.com/tags/Java/"/>
+      <category term="Java" scheme="https://hengxincheung.github.io/tags/Java/"/>
     
-      <category term="编程思想" scheme="http://hengxincheung.github.io.com/tags/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+      <category term="编程思想" scheme="https://hengxincheung.github.io/tags/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>工厂模式</title>
-    <link href="http://hengxincheung.github.io.com/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/"/>
-    <id>http://hengxincheung.github.io.com/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/</id>
+    <link href="https://hengxincheung.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/"/>
+    <id>https://hengxincheung.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/</id>
     <published>2020-05-25T11:57:00.000Z</published>
     <updated>2020-05-25T12:25:06.823Z</updated>
     
@@ -53,16 +53,16 @@
     
       
       
-        &lt;!-- build time:Mon May 25 2020 20:36:33 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;引言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#引言&quot;&gt;&lt;/a&gt; 引言&lt;/h2&gt;&lt;p&gt;工厂模式是一种&lt;
+        &lt;!-- build time:Mon May 25 2020 20:44:29 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;引言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#引言&quot;&gt;&lt;/a&gt; 引言&lt;/h2&gt;&lt;p&gt;工厂模式是一种&lt;
       
     
     </summary>
     
     
-      <category term="设计模式" scheme="http://hengxincheung.github.io.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="设计模式" scheme="https://hengxincheung.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
     
-      <category term="设计模式" scheme="http://hengxincheung.github.io.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="设计模式" scheme="https://hengxincheung.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
