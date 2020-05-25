@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2020-05-25T10:44:05.334Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2020-05-25T10:19:35.595Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2020-05-25T10:19:05.369Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/05/25/First-hexo-blog/</loc>
+    
+    <lastmod>2020-05-25T09:55:08.782Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2020/05/25/hello-world/</loc>
     
-    <lastmod>2020-05-25T06:50:05.229Z</lastmod>
+    <lastmod>2020-05-25T09:21:29.700Z</lastmod>
     
   </url>
   
