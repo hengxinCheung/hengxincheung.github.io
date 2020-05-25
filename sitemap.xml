@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2020/05/25/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/01-%E5%AF%B9%E8%B1%A1%E5%AF%BC%E8%AE%BA/</loc>
+    
+    <lastmod>2020-05-25T12:31:20.226Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/05/25/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/</loc>
+    
+    <lastmod>2020-05-25T12:25:06.823Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2020-05-25T10:44:05.334Z</lastmod>
@@ -19,20 +33,6 @@
     <loc>http://yoursite.com/categories/index.html</loc>
     
     <lastmod>2020-05-25T10:19:05.369Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/05/25/First-hexo-blog/</loc>
-    
-    <lastmod>2020-05-25T09:55:08.782Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/05/25/hello-world/</loc>
-    
-    <lastmod>2020-05-25T09:21:29.700Z</lastmod>
     
   </url>
   
