@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hengxincheung.github.io/"/>
-  <updated>2020-05-25T17:47:28.977Z</updated>
+  <updated>2020-05-26T05:28:11.307Z</updated>
   <id>https://hengxincheung.github.io/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>有状态和无状态登录</title>
+    <link href="https://hengxincheung.github.io/web/%E6%9C%89%E7%8A%B6%E6%80%81%E5%92%8C%E6%97%A0%E7%8A%B6%E6%80%81%E7%99%BB%E5%BD%95/"/>
+    <id>https://hengxincheung.github.io/web/%E6%9C%89%E7%8A%B6%E6%80%81%E5%92%8C%E6%97%A0%E7%8A%B6%E6%80%81%E7%99%BB%E5%BD%95/</id>
+    <published>2020-05-26T05:23:34.000Z</published>
+    <updated>2020-05-26T05:28:11.307Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;有状态及无状态登录&quot;&gt;&lt;a href=&quot;#有状态及无状态登录&quot; class=&quot;headerlink&quot; title=&quot;有状态及无状态登录
+      
+    
+    </summary>
+    
+    
+      <category term="web" scheme="https://hengxincheung.github.io/categories/web/"/>
+    
+    
+      <category term="登录" scheme="https://hengxincheung.github.io/tags/%E7%99%BB%E5%BD%95/"/>
+    
+      <category term="web" scheme="https://hengxincheung.github.io/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RESTful简介</title>
+    <link href="https://hengxincheung.github.io/web/RESTful%E7%AE%80%E4%BB%8B/"/>
+    <id>https://hengxincheung.github.io/web/RESTful%E7%AE%80%E4%BB%8B/</id>
+    <published>2020-05-26T05:22:00.000Z</published>
+    <updated>2020-05-26T05:22:54.718Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;什么是RESTful&quot;&gt;&lt;a href=&quot;#什么是RESTful&quot; class=&quot;headerlink&quot; title=&quot;什么是REST
+      
+    
+    </summary>
+    
+    
+      <category term="web" scheme="https://hengxincheung.github.io/categories/web/"/>
+    
+    
+      <category term="web" scheme="https://hengxincheung.github.io/tags/web/"/>
+    
+      <category term="RESTful" scheme="https://hengxincheung.github.io/tags/RESTful/"/>
+    
+  </entry>
   
   <entry>
     <title>08-其他命令</title>
@@ -27,7 +79,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;查找文件：&lt;code&gt;find&lt;/code&gt;&lt;/li&gt;&lt;li&gt;软链接：&lt;code&gt;ln&lt;/code&gt;&lt;/li&gt;&lt;li&gt;打包和压缩：&lt;c
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;查找文件：&lt;code&gt;find&lt;/code&gt;&lt;/li&gt;&lt;li&gt;软链接：&lt;code&gt;ln&lt;/code&gt;&lt;/li&gt;&lt;li&gt;打包和压缩：&lt;c
       
     
     </summary>
@@ -51,7 +103,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;系统信息的相关命令&quot;&gt;&lt;a href=&quot;#系统信息的相关命令&quot; class=&quot;headerlink&quot; title=&quot;系统信息的相关命令
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;系统信息的相关命令&quot;&gt;&lt;a href=&quot;#系统信息的相关命令&quot; class=&quot;headerlink&quot; title=&quot;系统信息的相关命令
       
     
     </summary>
@@ -75,7 +127,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;用户和权限的基本概念&quot;&gt;&lt;a href=&quot;#用户和权限的基本概念&quot; class=&quot;headerlink&quot; title=&quot;用户和权限的基
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;用户和权限的基本概念&quot;&gt;&lt;a href=&quot;#用户和权限的基本概念&quot; class=&quot;headerlink&quot; title=&quot;用户和权限的基
       
     
     </summary>
@@ -99,7 +151,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:38 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;关机-重启&quot;&gt;&lt;a href=&quot;#关机-重启&quot; class=&quot;headerlink&quot; title=&quot;关机/重启&quot;&gt;&lt;/a&gt;关机/重启&lt;
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;关机-重启&quot;&gt;&lt;a href=&quot;#关机-重启&quot; class=&quot;headerlink&quot; title=&quot;关机/重启&quot;&gt;&lt;/a&gt;关机/重启&lt;
       
     
     </summary>
@@ -123,7 +175,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:38 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录常用命令&quot;&gt;&lt;a href=&quot;#文件和目录常用命令&quot; class=&quot;headerlink&quot; title=&quot;文件和目录常用命令
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录常用命令&quot;&gt;&lt;a href=&quot;#文件和目录常用命令&quot; class=&quot;headerlink&quot; title=&quot;文件和目录常用命令
       
     
     </summary>
@@ -147,7 +199,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:38 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;Linux终端命令格式&quot;&gt;&lt;a href=&quot;#Linux终端命令格式&quot; class=&quot;headerlink&quot; title=&quot;Linux
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;Linux终端命令格式&quot;&gt;&lt;a href=&quot;#Linux终端命令格式&quot; class=&quot;headerlink&quot; title=&quot;Linux
       
     
     </summary>
@@ -171,7 +223,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:38 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录&quot;&gt;&lt;a href=&quot;#文件和目录&quot; class=&quot;headerlink&quot; title=&quot;文件和目录&quot;&gt;&lt;/a&gt;文件和目录&lt;
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录&quot;&gt;&lt;a href=&quot;#文件和目录&quot; class=&quot;headerlink&quot; title=&quot;文件和目录&quot;&gt;&lt;/a&gt;文件和目录&lt;
       
     
     </summary>
@@ -189,13 +241,13 @@
     <link href="https://hengxincheung.github.io/linux%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/01-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     <id>https://hengxincheung.github.io/linux%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/01-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
     <published>2020-05-25T17:25:58.000Z</published>
-    <updated>2020-05-25T17:46:41.427Z</updated>
+    <updated>2020-05-25T17:49:17.984Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:38 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;操作系统（Operation-System-OS）&quot;&gt;&lt;a href=&quot;#操作系统（Operation-System-OS）&quot; cla
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;操作系统（Operation-System-OS）&quot;&gt;&lt;a href=&quot;#操作系统（Operation-System-OS）&quot; cla
       
     
     </summary>
@@ -219,7 +271,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Numpy 可以读写磁盘上的文本数据或二进制数据。&lt;/p&gt;&lt;p&gt;NumPy 为&lt;code&gt;ndarray&lt;/code&gt;对象引入了一个简单的文件格
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Numpy 可以读写磁盘上的文本数据或二进制数据。&lt;/p&gt;&lt;p&gt;NumPy 为&lt;code&gt;ndarray&lt;/code&gt;对象引入了一个简单的文件格
       
     
     </summary>
@@ -245,7 +297,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 提供了线性代数函数库&lt;code&gt;linalg&lt;/code&gt;，该库包含了线性代数所需的所有功能，可以看看下面的说明：&lt;/p&gt;&lt;div 
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 提供了线性代数函数库&lt;code&gt;linalg&lt;/code&gt;，该库包含了线性代数所需的所有功能，可以看看下面的说明：&lt;/p&gt;&lt;div 
       
     
     </summary>
@@ -271,7 +323,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 中包含了一个矩阵库&lt;code&gt;numpy.matlib&lt;/code&gt;，该模块中的函数返回的是一个矩阵，而不是&lt;code&gt;ndarra
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 中包含了一个矩阵库&lt;code&gt;numpy.matlib&lt;/code&gt;，该模块中的函数返回的是一个矩阵，而不是&lt;code&gt;ndarra
       
     
     </summary>
@@ -297,7 +349,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;副本是一个数据的完整的拷贝，如果我们对副本进行修改，它不会影响到原始数据，物理内存不在同一位置。&lt;/p&gt;&lt;p&gt;视图是数据的一个别称或引用，通过该
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;副本是一个数据的完整的拷贝，如果我们对副本进行修改，它不会影响到原始数据，物理内存不在同一位置。&lt;/p&gt;&lt;p&gt;视图是数据的一个别称或引用，通过该
       
     
     </summary>
@@ -323,7 +375,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 提供了多种排序的方法。这些排序函数实现不同的排序算法，每个排序算法的特征在于执行速度，最坏情况性能，所需的工作空间和算法的稳定性。 
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 提供了多种排序的方法。这些排序函数实现不同的排序算法，每个排序算法的特征在于执行速度，最坏情况性能，所需的工作空间和算法的稳定性。 
       
     
     </summary>
@@ -349,7 +401,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 提供了很多统计函数，用于从数组中&lt;strong&gt;查找最小元素，最大元素，百分位标准差和方差&lt;/strong&gt;等。&lt;/p&gt;&lt;h2 id
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 提供了很多统计函数，用于从数组中&lt;strong&gt;查找最小元素，最大元素，百分位标准差和方差&lt;/strong&gt;等。&lt;/p&gt;&lt;h2 id
       
     
     </summary>
@@ -375,7 +427,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;简单的加减乘除&quot;&gt;&lt;a href=&quot;#简单的加减乘除&quot; class=&quot;headerlink&quot; title=&quot;简单的加减乘除&quot;&gt;&lt;/a&gt;
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;简单的加减乘除&quot;&gt;&lt;a href=&quot;#简单的加减乘除&quot; class=&quot;headerlink&quot; title=&quot;简单的加减乘除&quot;&gt;&lt;/a&gt;
       
     
     </summary>
@@ -401,7 +453,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 包含大量的各种数学运算的函数，包括&lt;strong&gt;三角函数，算术运算的函数，复数处理函数&lt;/strong&gt;等。&lt;/p&gt;&lt;h2 id=
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 包含大量的各种数学运算的函数，包括&lt;strong&gt;三角函数，算术运算的函数，复数处理函数&lt;/strong&gt;等。&lt;/p&gt;&lt;h2 id=
       
     
     </summary>
@@ -427,7 +479,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;NumPy-位运算&quot;&gt;&lt;a href=&quot;#NumPy-位运算&quot; class=&quot;headerlink&quot; title=&quot;NumPy 位运算
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;NumPy-位运算&quot;&gt;&lt;a href=&quot;#NumPy-位运算&quot; class=&quot;headerlink&quot; title=&quot;NumPy 位运算
       
     
     </summary>
@@ -453,59 +505,7 @@
     
       
       
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;NumPy-数组操作&quot;&gt;&lt;a href=&quot;#NumPy-数组操作&quot; class=&quot;headerlink&quot; title=&quot;NumPy 数
-      
-    
-    </summary>
-    
-    
-      <category term="numpy教程" scheme="https://hengxincheung.github.io/categories/numpy%E6%95%99%E7%A8%8B/"/>
-    
-    
-      <category term="numpy" scheme="https://hengxincheung.github.io/tags/numpy/"/>
-    
-      <category term="python" scheme="https://hengxincheung.github.io/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>05-广播与迭代</title>
-    <link href="https://hengxincheung.github.io/numpy%E6%95%99%E7%A8%8B/05-%E5%B9%BF%E6%92%AD%E4%B8%8E%E8%BF%AD%E4%BB%A3/"/>
-    <id>https://hengxincheung.github.io/numpy%E6%95%99%E7%A8%8B/05-%E5%B9%BF%E6%92%AD%E4%B8%8E%E8%BF%AD%E4%BB%A3/</id>
-    <published>2020-05-25T16:04:37.000Z</published>
-    <updated>2020-05-25T17:20:42.385Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;NumPy-广播（Broadcast）&quot;&gt;&lt;a href=&quot;#NumPy-广播（Broadcast）&quot; class=&quot;headerli
-      
-    
-    </summary>
-    
-    
-      <category term="numpy教程" scheme="https://hengxincheung.github.io/categories/numpy%E6%95%99%E7%A8%8B/"/>
-    
-    
-      <category term="numpy" scheme="https://hengxincheung.github.io/tags/numpy/"/>
-    
-      <category term="python" scheme="https://hengxincheung.github.io/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>04-切片与索引</title>
-    <link href="https://hengxincheung.github.io/numpy%E6%95%99%E7%A8%8B/04-%E5%88%87%E7%89%87%E4%B8%8E%E7%B4%A2%E5%BC%95/"/>
-    <id>https://hengxincheung.github.io/numpy%E6%95%99%E7%A8%8B/04-%E5%88%87%E7%89%87%E4%B8%8E%E7%B4%A2%E5%BC%95/</id>
-    <published>2020-05-25T16:03:19.000Z</published>
-    <updated>2020-05-25T16:04:00.026Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Tue May 26 2020 01:47:39 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;NumPy-切片和索引&quot;&gt;&lt;a href=&quot;#NumPy-切片和索引&quot; class=&quot;headerlink&quot; title=&quot;NumPy
+        &lt;!-- build time:Tue May 26 2020 13:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;NumPy-数组操作&quot;&gt;&lt;a href=&quot;#NumPy-数组操作&quot; class=&quot;headerlink&quot; title=&quot;NumPy 数
       
     
     </summary>
