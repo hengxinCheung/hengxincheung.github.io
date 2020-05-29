@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hengxincheung.github.io/"/>
-  <updated>2020-05-27T17:56:21.961Z</updated>
+  <updated>2020-05-29T12:48:31.838Z</updated>
   <id>https://hengxincheung.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个简单的用户系统设计</title>
+    <link href="https://hengxincheung.github.io/web/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E7%94%A8%E6%88%B7%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/"/>
+    <id>https://hengxincheung.github.io/web/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E7%94%A8%E6%88%B7%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</id>
+    <published>2020-05-29T08:18:53.000Z</published>
+    <updated>2020-05-29T12:48:31.838Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;用户系统是最基础的构成之一，但是越是基础越是难以设计。在设计用户系统的时候，首先想到的自建一个用户系统，劳烦用户填写资料进行注册登录。但同时还需
+      
+    
+    </summary>
+    
+    
+      <category term="web" scheme="https://hengxincheung.github.io/categories/web/"/>
+    
+    
+      <category term="web" scheme="https://hengxincheung.github.io/tags/web/"/>
+    
+      <category term="用户系统" scheme="https://hengxincheung.github.io/tags/%E7%94%A8%E6%88%B7%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>08-多态</title>
@@ -27,7 +53,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在面向对象的程序设计语言中，多态（也称为动态绑定，后期绑定或者运行时绑定）是继数据抽象和继承之后的第三种基本特征。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;st
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在面向对象的程序设计语言中，多态（也称为动态绑定，后期绑定或者运行时绑定）是继数据抽象和继承之后的第三种基本特征。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;st
       
     
     </summary>
@@ -53,7 +79,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;组合&lt;/strong&gt;：在新的类中产生现有类的对象。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;继承&lt;/strong&gt;：按照现有
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;组合&lt;/strong&gt;：在新的类中产生现有类的对象。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;继承&lt;/strong&gt;：按照现有
       
     
     </summary>
@@ -79,7 +105,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;摘要&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#摘要&quot;&gt;&lt;/a&gt; 摘要&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;摘要&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#摘要&quot;&gt;&lt;/a&gt; 摘要&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;
       
     
     </summary>
@@ -105,7 +131,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;a href=&quot;https://git-scm.com/book/zh/v2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;a href=&quot;https://git-scm.com/book/zh/v2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
       
     
     </summary>
@@ -123,13 +149,13 @@
     <link href="https://hengxincheung.github.io/web/%E6%9C%89%E7%8A%B6%E6%80%81%E5%92%8C%E6%97%A0%E7%8A%B6%E6%80%81%E7%99%BB%E5%BD%95/"/>
     <id>https://hengxincheung.github.io/web/%E6%9C%89%E7%8A%B6%E6%80%81%E5%92%8C%E6%97%A0%E7%8A%B6%E6%80%81%E7%99%BB%E5%BD%95/</id>
     <published>2020-05-26T05:23:34.000Z</published>
-    <updated>2020-05-27T07:27:57.706Z</updated>
+    <updated>2020-05-29T11:28:23.458Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;有状态及无状态登录&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#有状态及无状态登录&quot;&gt;&lt;/a&gt; 有状态及
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在一个系统中，用户的登录状态的维护是不可跨越的重要问题。根据&lt;strong&gt;登录状态保存在服务器端抑或客户端&lt;/strong&gt;可以将其区分为:&lt;
       
     
     </summary>
@@ -155,7 +181,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;什么是restful&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#什么是restful&quot;&gt;&lt;/a&gt; 什么
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;什么是restful&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#什么是restful&quot;&gt;&lt;/a&gt; 什么
       
     
     </summary>
@@ -181,7 +207,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;查找文件：&lt;code&gt;find&lt;/code&gt;&lt;/li&gt;&lt;li&gt;软链接：&lt;code&gt;ln&lt;/code&gt;&lt;/li&gt;&lt;li&gt;打包和压缩：&lt;c
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;查找文件：&lt;code&gt;find&lt;/code&gt;&lt;/li&gt;&lt;li&gt;软链接：&lt;code&gt;ln&lt;/code&gt;&lt;/li&gt;&lt;li&gt;打包和压缩：&lt;c
       
     
     </summary>
@@ -205,7 +231,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;系统信息的相关命令&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#系统信息的相关命令&quot;&gt;&lt;/a&gt; 系统信息
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;系统信息的相关命令&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#系统信息的相关命令&quot;&gt;&lt;/a&gt; 系统信息
       
     
     </summary>
@@ -229,7 +255,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;用户和权限的基本概念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#用户和权限的基本概念&quot;&gt;&lt;/a&gt; 用户
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;用户和权限的基本概念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#用户和权限的基本概念&quot;&gt;&lt;/a&gt; 用户
       
     
     </summary>
@@ -253,7 +279,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;关机重启&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#关机重启&quot;&gt;&lt;/a&gt; 关机/重启&lt;/h2&gt;&lt;h3 
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;关机重启&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#关机重启&quot;&gt;&lt;/a&gt; 关机/重启&lt;/h2&gt;&lt;h3 
       
     
     </summary>
@@ -277,7 +303,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录常用命令&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#文件和目录常用命令&quot;&gt;&lt;/a&gt; 文件和目
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录常用命令&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#文件和目录常用命令&quot;&gt;&lt;/a&gt; 文件和目
       
     
     </summary>
@@ -301,7 +327,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;linux终端命令格式&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#linux终端命令格式&quot;&gt;&lt;/a&gt; 
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;linux终端命令格式&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#linux终端命令格式&quot;&gt;&lt;/a&gt; 
       
     
     </summary>
@@ -325,7 +351,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#文件和目录&quot;&gt;&lt;/a&gt; 文件和目录&lt;/h2&gt;&lt;h
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#文件和目录&quot;&gt;&lt;/a&gt; 文件和目录&lt;/h2&gt;&lt;h
       
     
     </summary>
@@ -349,7 +375,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;操作系统operation-system-os&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#操作系统op
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;操作系统operation-system-os&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#操作系统op
       
     
     </summary>
@@ -373,7 +399,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Numpy 可以读写磁盘上的文本数据或二进制数据。&lt;/p&gt;&lt;p&gt;NumPy 为&lt;code&gt;ndarray&lt;/code&gt;对象引入了一个简单的文件格
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Numpy 可以读写磁盘上的文本数据或二进制数据。&lt;/p&gt;&lt;p&gt;NumPy 为&lt;code&gt;ndarray&lt;/code&gt;对象引入了一个简单的文件格
       
     
     </summary>
@@ -399,7 +425,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 提供了线性代数函数库&lt;code&gt;linalg&lt;/code&gt;，该库包含了线性代数所需的所有功能，可以看看下面的说明：&lt;/p&gt;&lt;tabl
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 提供了线性代数函数库&lt;code&gt;linalg&lt;/code&gt;，该库包含了线性代数所需的所有功能，可以看看下面的说明：&lt;/p&gt;&lt;tabl
       
     
     </summary>
@@ -425,7 +451,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 中包含了一个矩阵库&lt;code&gt;numpy.matlib&lt;/code&gt;，该模块中的函数返回的是一个矩阵，而不是&lt;code&gt;ndarra
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 中包含了一个矩阵库&lt;code&gt;numpy.matlib&lt;/code&gt;，该模块中的函数返回的是一个矩阵，而不是&lt;code&gt;ndarra
       
     
     </summary>
@@ -451,7 +477,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;副本是一个数据的完整的拷贝，如果我们对副本进行修改，它不会影响到原始数据，物理内存不在同一位置。&lt;/p&gt;&lt;p&gt;视图是数据的一个别称或引用，通过该
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;副本是一个数据的完整的拷贝，如果我们对副本进行修改，它不会影响到原始数据，物理内存不在同一位置。&lt;/p&gt;&lt;p&gt;视图是数据的一个别称或引用，通过该
       
     
     </summary>
@@ -477,33 +503,7 @@
     
       
       
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 提供了多种排序的方法。这些排序函数实现不同的排序算法，每个排序算法的特征在于执行速度，最坏情况性能，所需的工作空间和算法的稳定性。 
-      
-    
-    </summary>
-    
-    
-      <category term="numpy教程" scheme="https://hengxincheung.github.io/categories/numpy%E6%95%99%E7%A8%8B/"/>
-    
-    
-      <category term="numpy" scheme="https://hengxincheung.github.io/tags/numpy/"/>
-    
-      <category term="python" scheme="https://hengxincheung.github.io/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>10-统计函数</title>
-    <link href="https://hengxincheung.github.io/numpy%E6%95%99%E7%A8%8B/10-%E7%BB%9F%E8%AE%A1%E5%87%BD%E6%95%B0/"/>
-    <id>https://hengxincheung.github.io/numpy%E6%95%99%E7%A8%8B/10-%E7%BB%9F%E8%AE%A1%E5%87%BD%E6%95%B0/</id>
-    <published>2020-05-25T16:31:45.000Z</published>
-    <updated>2020-05-27T07:27:35.579Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Thu May 28 2020 01:57:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 提供了很多统计函数，用于从数组中&lt;strong&gt;查找最小元素，最大元素，百分位标准差和方差&lt;/strong&gt;等。&lt;/p&gt;&lt;h2 id
+        &lt;!-- build time:Fri May 29 2020 20:48:44 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 提供了多种排序的方法。这些排序函数实现不同的排序算法，每个排序算法的特征在于执行速度，最坏情况性能，所需的工作空间和算法的稳定性。 
       
     
     </summary>
