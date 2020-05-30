@@ -27,7 +27,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;可以将一个类的定义放在另一个类的定义内部，这就是内部类。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;内部类是一种非常有用的特性，因为它允许你
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;可以将一个类的定义放在另一个类的定义内部，这就是内部类。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;内部类是一种非常有用的特性，因为它允许你
       
     
     </summary>
@@ -53,7 +53,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;接口和内部类为我们提供了一种将接口与实现分离的更加结构化的方法。&lt;/strong&gt;&lt;/p&gt;&lt;h2 id=&quot;抽象类与抽象方法&quot;&gt;&lt;
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;接口和内部类为我们提供了一种将接口与实现分离的更加结构化的方法。&lt;/strong&gt;&lt;/p&gt;&lt;h2 id=&quot;抽象类与抽象方法&quot;&gt;&lt;
       
     
     </summary>
@@ -73,13 +73,13 @@
     <link href="https://hengxincheung.github.io/web/%E5%9F%BA%E4%BA%8EURL%E7%9A%84%E6%9D%83%E9%99%90%E7%B3%BB%E7%BB%9F/"/>
     <id>https://hengxincheung.github.io/web/%E5%9F%BA%E4%BA%8EURL%E7%9A%84%E6%9D%83%E9%99%90%E7%B3%BB%E7%BB%9F/</id>
     <published>2020-05-29T12:59:34.000Z</published>
-    <updated>2020-05-30T10:47:56.748Z</updated>
+    <updated>2020-05-30T16:17:39.816Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;概念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概念&quot;&gt;&lt;/a&gt; 概念&lt;/h2&gt;&lt;figure cla
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;概念&quot;&gt;&lt;a href=&quot;#概念&quot; class=&quot;headerlink&quot; title=&quot;概念&quot;&gt;&lt;/a&gt;概念&lt;/h2&gt;&lt;figure 
       
     
     </summary>
@@ -105,7 +105,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;用户系统是最基础的构成之一，但是越是基础越是难以设计。在设计用户系统的时候，首先想到的自建一个用户系统，劳烦用户填写资料进行注册登录。但同时还需
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;用户系统是最基础的构成之一，但是越是基础越是难以设计。在设计用户系统的时候，首先想到的自建一个用户系统，劳烦用户填写资料进行注册登录。但同时还需
       
     
     </summary>
@@ -131,7 +131,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在面向对象的程序设计语言中，多态（也称为动态绑定，后期绑定或者运行时绑定）是继数据抽象和继承之后的第三种基本特征。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;st
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在面向对象的程序设计语言中，多态（也称为动态绑定，后期绑定或者运行时绑定）是继数据抽象和继承之后的第三种基本特征。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;st
       
     
     </summary>
@@ -157,7 +157,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;组合&lt;/strong&gt;：在新的类中产生现有类的对象。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;继承&lt;/strong&gt;：按照现有
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;组合&lt;/strong&gt;：在新的类中产生现有类的对象。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;继承&lt;/strong&gt;：按照现有
       
     
     </summary>
@@ -183,7 +183,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;摘要&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#摘要&quot;&gt;&lt;/a&gt; 摘要&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;摘要&quot;&gt;&lt;a href=&quot;#摘要&quot; class=&quot;headerlink&quot; title=&quot;摘要&quot;&gt;&lt;/a&gt;摘要&lt;/h2&gt;&lt;p&gt;&lt;stro
       
     
     </summary>
@@ -209,7 +209,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;a href=&quot;https://git-scm.com/book/zh/v2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;a href=&quot;https://git-scm.com/book/zh/v2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
       
     
     </summary>
@@ -233,7 +233,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在一个系统中，用户的登录状态的维护是不可跨越的重要问题。根据&lt;strong&gt;登录状态保存在服务器端抑或客户端&lt;/strong&gt;可以将其区分为:&lt;
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在一个系统中，用户的登录状态的维护是不可跨越的重要问题。根据&lt;strong&gt;登录状态保存在服务器端抑或客户端&lt;/strong&gt;可以将其区分为:&lt;
       
     
     </summary>
@@ -259,7 +259,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;什么是restful&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#什么是restful&quot;&gt;&lt;/a&gt; 什么
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;什么是RESTful&quot;&gt;&lt;a href=&quot;#什么是RESTful&quot; class=&quot;headerlink&quot; title=&quot;什么是REST
       
     
     </summary>
@@ -285,7 +285,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;查找文件：&lt;code&gt;find&lt;/code&gt;&lt;/li&gt;&lt;li&gt;软链接：&lt;code&gt;ln&lt;/code&gt;&lt;/li&gt;&lt;li&gt;打包和压缩：&lt;c
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;查找文件：&lt;code&gt;find&lt;/code&gt;&lt;/li&gt;&lt;li&gt;软链接：&lt;code&gt;ln&lt;/code&gt;&lt;/li&gt;&lt;li&gt;打包和压缩：&lt;c
       
     
     </summary>
@@ -309,7 +309,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;系统信息的相关命令&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#系统信息的相关命令&quot;&gt;&lt;/a&gt; 系统信息
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;系统信息的相关命令&quot;&gt;&lt;a href=&quot;#系统信息的相关命令&quot; class=&quot;headerlink&quot; title=&quot;系统信息的相关命令
       
     
     </summary>
@@ -333,7 +333,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;用户和权限的基本概念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#用户和权限的基本概念&quot;&gt;&lt;/a&gt; 用户
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;用户和权限的基本概念&quot;&gt;&lt;a href=&quot;#用户和权限的基本概念&quot; class=&quot;headerlink&quot; title=&quot;用户和权限的基
       
     
     </summary>
@@ -357,7 +357,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;关机重启&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#关机重启&quot;&gt;&lt;/a&gt; 关机/重启&lt;/h2&gt;&lt;h3 
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;关机-重启&quot;&gt;&lt;a href=&quot;#关机-重启&quot; class=&quot;headerlink&quot; title=&quot;关机/重启&quot;&gt;&lt;/a&gt;关机/重启&lt;
       
     
     </summary>
@@ -381,7 +381,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录常用命令&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#文件和目录常用命令&quot;&gt;&lt;/a&gt; 文件和目
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录常用命令&quot;&gt;&lt;a href=&quot;#文件和目录常用命令&quot; class=&quot;headerlink&quot; title=&quot;文件和目录常用命令
       
     
     </summary>
@@ -405,7 +405,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;linux终端命令格式&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#linux终端命令格式&quot;&gt;&lt;/a&gt; 
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;Linux终端命令格式&quot;&gt;&lt;a href=&quot;#Linux终端命令格式&quot; class=&quot;headerlink&quot; title=&quot;Linux
       
     
     </summary>
@@ -429,7 +429,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#文件和目录&quot;&gt;&lt;/a&gt; 文件和目录&lt;/h2&gt;&lt;h
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录&quot;&gt;&lt;a href=&quot;#文件和目录&quot; class=&quot;headerlink&quot; title=&quot;文件和目录&quot;&gt;&lt;/a&gt;文件和目录&lt;
       
     
     </summary>
@@ -453,7 +453,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;操作系统operation-system-os&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#操作系统op
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;操作系统（Operation-System-OS）&quot;&gt;&lt;a href=&quot;#操作系统（Operation-System-OS）&quot; cla
       
     
     </summary>
@@ -477,7 +477,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Numpy 可以读写磁盘上的文本数据或二进制数据。&lt;/p&gt;&lt;p&gt;NumPy 为&lt;code&gt;ndarray&lt;/code&gt;对象引入了一个简单的文件格
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Numpy 可以读写磁盘上的文本数据或二进制数据。&lt;/p&gt;&lt;p&gt;NumPy 为&lt;code&gt;ndarray&lt;/code&gt;对象引入了一个简单的文件格
       
     
     </summary>
@@ -503,7 +503,7 @@
     
       
       
-        &lt;!-- build time:Sat May 30 2020 23:29:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 提供了线性代数函数库&lt;code&gt;linalg&lt;/code&gt;，该库包含了线性代数所需的所有功能，可以看看下面的说明：&lt;/p&gt;&lt;tabl
+        &lt;!-- build time:Sun May 31 2020 00:22:18 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 提供了线性代数函数库&lt;code&gt;linalg&lt;/code&gt;，该库包含了线性代数所需的所有功能，可以看看下面的说明：&lt;/p&gt;&lt;div 
       
     
     </summary>
