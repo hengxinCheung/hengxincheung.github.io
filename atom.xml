@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hengxincheung.github.io/"/>
-  <updated>2020-05-30T15:29:16.354Z</updated>
+  <updated>2020-06-09T13:21:56.415Z</updated>
   <id>https://hengxincheung.github.io/</id>
   
   <author>
@@ -17,17 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>10-内部类</title>
-    <link href="https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/10-%E5%86%85%E9%83%A8%E7%B1%BB/"/>
-    <id>https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/10-%E5%86%85%E9%83%A8%E7%B1%BB/</id>
-    <published>2020-05-30T13:51:09.000Z</published>
-    <updated>2020-05-30T15:29:16.354Z</updated>
+    <title>11-持有对象</title>
+    <link href="https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/11-%E6%8C%81%E6%9C%89%E5%AF%B9%E8%B1%A1/"/>
+    <id>https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/11-%E6%8C%81%E6%9C%89%E5%AF%B9%E8%B1%A1/</id>
+    <published>2020-06-03T10:18:51.000Z</published>
+    <updated>2020-06-09T13:21:56.415Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;可以将一个类的定义放在另一个类的定义内部，这就是内部类。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;内部类是一种非常有用的特性，因为它允许你
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;通常，程序总是根据运行时才知道的某些条件去创建新的对象，即需要在任意时刻和任意位置创建任意数量的对象。所以不能依靠创建命名的引用来持有每一个对象
+      
+    
+    </summary>
+    
+    
+      <category term="Java编程思想" scheme="https://hengxincheung.github.io/categories/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+    
+    
+      <category term="Java" scheme="https://hengxincheung.github.io/tags/Java/"/>
+    
+      <category term="编程思想" scheme="https://hengxincheung.github.io/tags/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>10-内部类</title>
+    <link href="https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/10-%E5%86%85%E9%83%A8%E7%B1%BB/"/>
+    <id>https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/10-%E5%86%85%E9%83%A8%E7%B1%BB/</id>
+    <published>2020-05-30T13:51:09.000Z</published>
+    <updated>2020-05-31T16:08:13.349Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;可以将一个类的定义放在另一个类的定义内部，这就是内部类。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;内部类是一种非常有用的特性，因为它允许你
       
     
     </summary>
@@ -53,7 +79,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;接口和内部类为我们提供了一种将接口与实现分离的更加结构化的方法。&lt;/strong&gt;&lt;/p&gt;&lt;h2 id=&quot;抽象类与抽象方法&quot;&gt;&lt;
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;接口和内部类为我们提供了一种将接口与实现分离的更加结构化的方法。&lt;/strong&gt;&lt;/p&gt;&lt;h2 id=&quot;抽象类与抽象方法&quot;&gt;&lt;
       
     
     </summary>
@@ -79,7 +105,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;概念&quot;&gt;&lt;a href=&quot;#概念&quot; class=&quot;headerlink&quot; title=&quot;概念&quot;&gt;&lt;/a&gt;概念&lt;/h2&gt;&lt;figure 
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;概念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概念&quot;&gt;&lt;/a&gt; 概念&lt;/h2&gt;&lt;figure cla
       
     
     </summary>
@@ -105,7 +131,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;用户系统是最基础的构成之一，但是越是基础越是难以设计。在设计用户系统的时候，首先想到的自建一个用户系统，劳烦用户填写资料进行注册登录。但同时还需
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;用户系统是最基础的构成之一，但是越是基础越是难以设计。在设计用户系统的时候，首先想到的自建一个用户系统，劳烦用户填写资料进行注册登录。但同时还需
       
     
     </summary>
@@ -114,9 +140,9 @@
       <category term="web" scheme="https://hengxincheung.github.io/categories/web/"/>
     
     
-      <category term="web" scheme="https://hengxincheung.github.io/tags/web/"/>
-    
       <category term="用户系统" scheme="https://hengxincheung.github.io/tags/%E7%94%A8%E6%88%B7%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="web" scheme="https://hengxincheung.github.io/tags/web/"/>
     
   </entry>
   
@@ -131,7 +157,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在面向对象的程序设计语言中，多态（也称为动态绑定，后期绑定或者运行时绑定）是继数据抽象和继承之后的第三种基本特征。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;st
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在面向对象的程序设计语言中，多态（也称为动态绑定，后期绑定或者运行时绑定）是继数据抽象和继承之后的第三种基本特征。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;st
       
     
     </summary>
@@ -157,7 +183,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;组合&lt;/strong&gt;：在新的类中产生现有类的对象。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;继承&lt;/strong&gt;：按照现有
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;组合&lt;/strong&gt;：在新的类中产生现有类的对象。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;继承&lt;/strong&gt;：按照现有
       
     
     </summary>
@@ -183,7 +209,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;摘要&quot;&gt;&lt;a href=&quot;#摘要&quot; class=&quot;headerlink&quot; title=&quot;摘要&quot;&gt;&lt;/a&gt;摘要&lt;/h2&gt;&lt;p&gt;&lt;stro
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;摘要&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#摘要&quot;&gt;&lt;/a&gt; 摘要&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;
       
     
     </summary>
@@ -209,7 +235,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;a href=&quot;https://git-scm.com/book/zh/v2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;a href=&quot;https://git-scm.com/book/zh/v2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
       
     
     </summary>
@@ -233,7 +259,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在一个系统中，用户的登录状态的维护是不可跨越的重要问题。根据&lt;strong&gt;登录状态保存在服务器端抑或客户端&lt;/strong&gt;可以将其区分为:&lt;
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在一个系统中，用户的登录状态的维护是不可跨越的重要问题。根据&lt;strong&gt;登录状态保存在服务器端抑或客户端&lt;/strong&gt;可以将其区分为:&lt;
       
     
     </summary>
@@ -259,7 +285,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;什么是RESTful&quot;&gt;&lt;a href=&quot;#什么是RESTful&quot; class=&quot;headerlink&quot; title=&quot;什么是REST
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;什么是restful&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#什么是restful&quot;&gt;&lt;/a&gt; 什么
       
     
     </summary>
@@ -285,7 +311,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;查找文件：&lt;code&gt;find&lt;/code&gt;&lt;/li&gt;&lt;li&gt;软链接：&lt;code&gt;ln&lt;/code&gt;&lt;/li&gt;&lt;li&gt;打包和压缩：&lt;c
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;查找文件：&lt;code&gt;find&lt;/code&gt;&lt;/li&gt;&lt;li&gt;软链接：&lt;code&gt;ln&lt;/code&gt;&lt;/li&gt;&lt;li&gt;打包和压缩：&lt;c
       
     
     </summary>
@@ -309,7 +335,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;系统信息的相关命令&quot;&gt;&lt;a href=&quot;#系统信息的相关命令&quot; class=&quot;headerlink&quot; title=&quot;系统信息的相关命令
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;系统信息的相关命令&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#系统信息的相关命令&quot;&gt;&lt;/a&gt; 系统信息
       
     
     </summary>
@@ -333,7 +359,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;用户和权限的基本概念&quot;&gt;&lt;a href=&quot;#用户和权限的基本概念&quot; class=&quot;headerlink&quot; title=&quot;用户和权限的基
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;用户和权限的基本概念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#用户和权限的基本概念&quot;&gt;&lt;/a&gt; 用户
       
     
     </summary>
@@ -357,7 +383,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;关机-重启&quot;&gt;&lt;a href=&quot;#关机-重启&quot; class=&quot;headerlink&quot; title=&quot;关机/重启&quot;&gt;&lt;/a&gt;关机/重启&lt;
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;关机重启&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#关机重启&quot;&gt;&lt;/a&gt; 关机/重启&lt;/h2&gt;&lt;h3 
       
     
     </summary>
@@ -381,7 +407,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录常用命令&quot;&gt;&lt;a href=&quot;#文件和目录常用命令&quot; class=&quot;headerlink&quot; title=&quot;文件和目录常用命令
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录常用命令&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#文件和目录常用命令&quot;&gt;&lt;/a&gt; 文件和目
       
     
     </summary>
@@ -405,7 +431,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;Linux终端命令格式&quot;&gt;&lt;a href=&quot;#Linux终端命令格式&quot; class=&quot;headerlink&quot; title=&quot;Linux
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;linux终端命令格式&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#linux终端命令格式&quot;&gt;&lt;/a&gt; 
       
     
     </summary>
@@ -429,7 +455,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录&quot;&gt;&lt;a href=&quot;#文件和目录&quot; class=&quot;headerlink&quot; title=&quot;文件和目录&quot;&gt;&lt;/a&gt;文件和目录&lt;
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;文件和目录&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#文件和目录&quot;&gt;&lt;/a&gt; 文件和目录&lt;/h2&gt;&lt;h
       
     
     </summary>
@@ -453,7 +479,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;操作系统（Operation-System-OS）&quot;&gt;&lt;a href=&quot;#操作系统（Operation-System-OS）&quot; cla
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;操作系统operation-system-os&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#操作系统op
       
     
     </summary>
@@ -477,33 +503,7 @@
     
       
       
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Numpy 可以读写磁盘上的文本数据或二进制数据。&lt;/p&gt;&lt;p&gt;NumPy 为&lt;code&gt;ndarray&lt;/code&gt;对象引入了一个简单的文件格
-      
-    
-    </summary>
-    
-    
-      <category term="numpy教程" scheme="https://hengxincheung.github.io/categories/numpy%E6%95%99%E7%A8%8B/"/>
-    
-    
-      <category term="numpy" scheme="https://hengxincheung.github.io/tags/numpy/"/>
-    
-      <category term="python" scheme="https://hengxincheung.github.io/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>14-线性代数</title>
-    <link href="https://hengxincheung.github.io/numpy%E6%95%99%E7%A8%8B/14-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
-    <id>https://hengxincheung.github.io/numpy%E6%95%99%E7%A8%8B/14-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</id>
-    <published>2020-05-25T16:37:14.000Z</published>
-    <updated>2020-05-27T07:27:48.692Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Mon Jun 01 2020 00:04:28 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;NumPy 提供了线性代数函数库&lt;code&gt;linalg&lt;/code&gt;，该库包含了线性代数所需的所有功能，可以看看下面的说明：&lt;/p&gt;&lt;div 
+        &lt;!-- build time:Tue Jun 09 2020 21:23:35 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Numpy 可以读写磁盘上的文本数据或二进制数据。&lt;/p&gt;&lt;p&gt;NumPy 为&lt;code&gt;ndarray&lt;/code&gt;对象引入了一个简单的文件格
       
     
     </summary>
