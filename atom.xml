@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hengxincheung.github.io/"/>
-  <updated>2020-06-21T15:20:14.559Z</updated>
+  <updated>2020-07-03T13:31:40.550Z</updated>
   <id>https://hengxincheung.github.io/</id>
   
   <author>
@@ -15,6 +15,110 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>21-并发</title>
+    <link href="https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/21-%E5%B9%B6%E5%8F%91/"/>
+    <id>https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/21-%E5%B9%B6%E5%8F%91/</id>
+    <published>2020-07-03T13:31:04.000Z</published>
+    <updated>2020-07-03T13:31:40.550Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Jul 03 2020 21:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;编程问题相当打的一部分都可以通过使用 &lt;strong&gt;顺序编程&lt;/strong&gt; 来解决。然而，如果能够并行地执行程序中的多个部分，则会变得非常
+      
+    
+    </summary>
+    
+    
+      <category term="Java编程思想" scheme="https://hengxincheung.github.io/categories/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+    
+    
+      <category term="Java" scheme="https://hengxincheung.github.io/tags/Java/"/>
+    
+      <category term="编程思想" scheme="https://hengxincheung.github.io/tags/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20-注解</title>
+    <link href="https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/20-%E6%B3%A8%E8%A7%A3/"/>
+    <id>https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/20-%E6%B3%A8%E8%A7%A3/</id>
+    <published>2020-07-03T13:30:32.000Z</published>
+    <updated>2020-07-03T13:31:34.942Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Jul 03 2020 21:34:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;注解（也被称为元数据）为我们在代码中添加信息提供了一种形式化的方法，使我们可以在稍后某个时刻非常方便使用这些数据。&lt;/stron
+      
+    
+    </summary>
+    
+    
+      <category term="Java编程思想" scheme="https://hengxincheung.github.io/categories/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+    
+    
+      <category term="Java" scheme="https://hengxincheung.github.io/tags/Java/"/>
+    
+      <category term="编程思想" scheme="https://hengxincheung.github.io/tags/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>19-枚举类型</title>
+    <link href="https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/19-%E6%9E%9A%E4%B8%BE%E7%B1%BB%E5%9E%8B/"/>
+    <id>https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/19-%E6%9E%9A%E4%B8%BE%E7%B1%BB%E5%9E%8B/</id>
+    <published>2020-07-03T13:29:52.000Z</published>
+    <updated>2020-07-03T13:31:30.708Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Jul 03 2020 21:34:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;关键字 &lt;code&gt;enum&lt;/code&gt; 可以将一组具名的值的有限集合创建为一种新的类型，而这些具名的值可以作为常规的程序组件
+      
+    
+    </summary>
+    
+    
+      <category term="Java编程思想" scheme="https://hengxincheung.github.io/categories/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+    
+    
+      <category term="Java" scheme="https://hengxincheung.github.io/tags/Java/"/>
+    
+      <category term="编程思想" scheme="https://hengxincheung.github.io/tags/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>18-IO系统</title>
+    <link href="https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/18-IO%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://hengxincheung.github.io/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/18-IO%E7%B3%BB%E7%BB%9F/</id>
+    <published>2020-07-03T13:29:07.000Z</published>
+    <updated>2020-07-03T13:31:24.106Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Jul 03 2020 21:34:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;对程序语言的设计者来说，创建一个好的输入/输出（I/O）系统是一项艰难的任务。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;挑战来自于要涵盖所
+      
+    
+    </summary>
+    
+    
+      <category term="Java编程思想" scheme="https://hengxincheung.github.io/categories/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+    
+    
+      <category term="Java" scheme="https://hengxincheung.github.io/tags/Java/"/>
+    
+      <category term="编程思想" scheme="https://hengxincheung.github.io/tags/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>17-容器深入研究</title>
@@ -27,7 +131,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;完整的容器分类法&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#完整的容器分类法&quot;&gt;&lt;/a&gt; 完整的容器分
+        &lt;!-- build time:Fri Jul 03 2020 21:34:19 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;完整的容器分类法&quot;&gt;&lt;a href=&quot;#完整的容器分类法&quot; class=&quot;headerlink&quot; title=&quot;完整的容器分类法&quot;&gt;&lt;
       
     
     </summary>
@@ -53,7 +157,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;对数据的基本看法是，你可以创建并组装它们，通过使用整型索引值访问它们的元素，并且它们的尺寸不能改变。&lt;/p&gt;&lt;h2 id=&quot;数组为什么特殊&quot;&gt;&lt;
+        &lt;!-- build time:Fri Jul 03 2020 21:34:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;对数据的基本看法是，你可以创建并组装它们，通过使用整型索引值访问它们的元素，并且它们的尺寸不能改变。&lt;/p&gt;&lt;h2 id=&quot;数组为什么特殊&quot;&gt;&lt;
       
     
     </summary>
@@ -79,7 +183,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;一般的类和方法，只能使用具体的类型：要么是基本类型，要么是自定义的类。如果要编写可以应用于多种类型的代码，这种刻板的限制对代码的
+        &lt;!-- build time:Fri Jul 03 2020 21:34:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;一般的类和方法，只能使用具体的类型：要么是基本类型，要么是自定义的类。如果要编写可以应用于多种类型的代码，这种刻板的限制对代码的
       
     
     </summary>
@@ -105,7 +209,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;运行时类型信息使得你可以在程序运行时发现和使用类型信息。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Java主要有两种方式让我们在运行时识别
+        &lt;!-- build time:Fri Jul 03 2020 21:34:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;运行时类型信息使得你可以在程序运行时发现和使用类型信息。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Java主要有两种方式让我们在运行时识别
       
     
     </summary>
@@ -131,7 +235,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;字符串操作是计算机程序中最常见的行为。&lt;/strong&gt;&lt;/p&gt;&lt;h2 id=&quot;不可变-string&quot;&gt;&lt;a class=&quot;ma
+        &lt;!-- build time:Fri Jul 03 2020 21:34:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;字符串操作是计算机程序中最常见的行为。&lt;/strong&gt;&lt;/p&gt;&lt;h2 id=&quot;不可变-String&quot;&gt;&lt;a href=&quot;#不可
       
     
     </summary>
@@ -157,7 +261,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;Java 的基本理念是“结构不佳的代码不能运行”。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;发现错误的理想时机是编译阶段，然而编译期间不能
+        &lt;!-- build time:Fri Jul 03 2020 21:34:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;Java 的基本理念是“结构不佳的代码不能运行”。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;发现错误的理想时机是编译阶段，然而编译期间不能
       
     
     </summary>
@@ -183,7 +287,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;通常，程序总是根据运行时才知道的某些条件去创建新的对象，即需要在任意时刻和任意位置创建任意数量的对象。所以不能依靠创建命名的引用来持有每一个对象
+        &lt;!-- build time:Fri Jul 03 2020 21:34:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;通常，程序总是根据运行时才知道的某些条件去创建新的对象，即需要在任意时刻和任意位置创建任意数量的对象。所以不能依靠创建命名的引用来持有每一个对象
       
     
     </summary>
@@ -209,7 +313,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;可以将一个类的定义放在另一个类的定义内部，这就是内部类。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;内部类是一种非常有用的特性，因为它允许你
+        &lt;!-- build time:Fri Jul 03 2020 21:34:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;可以将一个类的定义放在另一个类的定义内部，这就是内部类。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;内部类是一种非常有用的特性，因为它允许你
       
     
     </summary>
@@ -235,7 +339,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;接口和内部类为我们提供了一种将接口与实现分离的更加结构化的方法。&lt;/strong&gt;&lt;/p&gt;&lt;h2 id=&quot;抽象类与抽象方法&quot;&gt;&lt;
+        &lt;!-- build time:Fri Jul 03 2020 21:34:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;strong&gt;接口和内部类为我们提供了一种将接口与实现分离的更加结构化的方法。&lt;/strong&gt;&lt;/p&gt;&lt;h2 id=&quot;抽象类与抽象方法&quot;&gt;&lt;
       
     
     </summary>
@@ -261,7 +365,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;概念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概念&quot;&gt;&lt;/a&gt; 概念&lt;/h2&gt;&lt;figure cla
+        &lt;!-- build time:Fri Jul 03 2020 21:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;概念&quot;&gt;&lt;a href=&quot;#概念&quot; class=&quot;headerlink&quot; title=&quot;概念&quot;&gt;&lt;/a&gt;概念&lt;/h2&gt;&lt;figure 
       
     
     </summary>
@@ -287,7 +391,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;用户系统是最基础的构成之一，但是越是基础越是难以设计。在设计用户系统的时候，首先想到的自建一个用户系统，劳烦用户填写资料进行注册登录。但同时还需
+        &lt;!-- build time:Fri Jul 03 2020 21:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;用户系统是最基础的构成之一，但是越是基础越是难以设计。在设计用户系统的时候，首先想到的自建一个用户系统，劳烦用户填写资料进行注册登录。但同时还需
       
     
     </summary>
@@ -313,7 +417,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在面向对象的程序设计语言中，多态（也称为动态绑定，后期绑定或者运行时绑定）是继数据抽象和继承之后的第三种基本特征。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;st
+        &lt;!-- build time:Fri Jul 03 2020 21:34:19 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在面向对象的程序设计语言中，多态（也称为动态绑定，后期绑定或者运行时绑定）是继数据抽象和继承之后的第三种基本特征。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;st
       
     
     </summary>
@@ -339,7 +443,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;组合&lt;/strong&gt;：在新的类中产生现有类的对象。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;继承&lt;/strong&gt;：按照现有
+        &lt;!-- build time:Fri Jul 03 2020 21:34:19 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;组合&lt;/strong&gt;：在新的类中产生现有类的对象。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;继承&lt;/strong&gt;：按照现有
       
     
     </summary>
@@ -365,7 +469,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;摘要&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#摘要&quot;&gt;&lt;/a&gt; 摘要&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;
+        &lt;!-- build time:Fri Jul 03 2020 21:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;摘要&quot;&gt;&lt;a href=&quot;#摘要&quot; class=&quot;headerlink&quot; title=&quot;摘要&quot;&gt;&lt;/a&gt;摘要&lt;/h2&gt;&lt;p&gt;&lt;stro
       
     
     </summary>
@@ -391,7 +495,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;a href=&quot;https://git-scm.com/book/zh/v2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;!-- build time:Fri Jul 03 2020 21:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;a href=&quot;https://git-scm.com/book/zh/v2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
       
     
     </summary>
@@ -415,7 +519,7 @@
     
       
       
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在一个系统中，用户的登录状态的维护是不可跨越的重要问题。根据&lt;strong&gt;登录状态保存在服务器端抑或客户端&lt;/strong&gt;可以将其区分为:&lt;
+        &lt;!-- build time:Fri Jul 03 2020 21:34:20 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;在一个系统中，用户的登录状态的维护是不可跨越的重要问题。根据&lt;strong&gt;登录状态保存在服务器端抑或客户端&lt;/strong&gt;可以将其区分为:&lt;
       
     
     </summary>
@@ -427,104 +531,6 @@
       <category term="web" scheme="https://hengxincheung.github.io/tags/web/"/>
     
       <category term="登录" scheme="https://hengxincheung.github.io/tags/%E7%99%BB%E5%BD%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>RESTful简介</title>
-    <link href="https://hengxincheung.github.io/web/RESTful%E7%AE%80%E4%BB%8B/"/>
-    <id>https://hengxincheung.github.io/web/RESTful%E7%AE%80%E4%BB%8B/</id>
-    <published>2020-05-26T05:22:00.000Z</published>
-    <updated>2020-05-27T07:28:01.304Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;什么是restful&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#什么是restful&quot;&gt;&lt;/a&gt; 什么
-      
-    
-    </summary>
-    
-    
-      <category term="web" scheme="https://hengxincheung.github.io/categories/web/"/>
-    
-    
-      <category term="web" scheme="https://hengxincheung.github.io/tags/web/"/>
-    
-      <category term="RESTful" scheme="https://hengxincheung.github.io/tags/RESTful/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>08-其他命令</title>
-    <link href="https://hengxincheung.github.io/linux%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/08-%E5%85%B6%E4%BB%96%E5%91%BD%E4%BB%A4/"/>
-    <id>https://hengxincheung.github.io/linux%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/08-%E5%85%B6%E4%BB%96%E5%91%BD%E4%BB%A4/</id>
-    <published>2020-05-25T17:38:28.000Z</published>
-    <updated>2020-05-27T07:26:10.657Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;查找文件：&lt;code&gt;find&lt;/code&gt;&lt;/li&gt;&lt;li&gt;软链接：&lt;code&gt;ln&lt;/code&gt;&lt;/li&gt;&lt;li&gt;打包和压缩：&lt;c
-      
-    
-    </summary>
-    
-    
-      <category term="linux快速入门" scheme="https://hengxincheung.github.io/categories/linux%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/"/>
-    
-    
-      <category term="linux" scheme="https://hengxincheung.github.io/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>07-系统信息</title>
-    <link href="https://hengxincheung.github.io/linux%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/07-%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF/"/>
-    <id>https://hengxincheung.github.io/linux%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/07-%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF/</id>
-    <published>2020-05-25T17:37:35.000Z</published>
-    <updated>2020-05-27T07:25:01.493Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;系统信息的相关命令&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#系统信息的相关命令&quot;&gt;&lt;/a&gt; 系统信息
-      
-    
-    </summary>
-    
-    
-      <category term="linux快速入门" scheme="https://hengxincheung.github.io/categories/linux%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/"/>
-    
-    
-      <category term="linux" scheme="https://hengxincheung.github.io/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>06-用户权限</title>
-    <link href="https://hengxincheung.github.io/linux%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/06-%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90/"/>
-    <id>https://hengxincheung.github.io/linux%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/06-%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90/</id>
-    <published>2020-05-25T17:35:27.000Z</published>
-    <updated>2020-05-27T07:24:58.489Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Sun Jun 21 2020 23:20:38 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;用户和权限的基本概念&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#用户和权限的基本概念&quot;&gt;&lt;/a&gt; 用户
-      
-    
-    </summary>
-    
-    
-      <category term="linux快速入门" scheme="https://hengxincheung.github.io/categories/linux%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/"/>
-    
-    
-      <category term="linux" scheme="https://hengxincheung.github.io/tags/linux/"/>
     
   </entry>
   
